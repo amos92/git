@@ -12,6 +12,7 @@
 	COMMIT 3
 	commit 4
 	commit 5
+	
 	<footer>푸터 추가</footer>
 </body>
 </html>
