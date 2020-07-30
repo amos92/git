@@ -15,4 +15,7 @@
 	
 	<footer>푸터 추가</footer>
 </body>
+<script>
+	console.log("hello vs-code")
+</script>
 </html>
