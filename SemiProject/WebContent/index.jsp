@@ -17,5 +17,7 @@
 </body>
 <script>
 	console.log("hello vs-code")
+	alert('hello got copy');
+	console.log('hella')
 </script>
 </html>
